@@ -114,7 +114,6 @@ def masuk():
 	print "\033[1;97m{\033[1;92m01\033[1;97m} Login Via Token Facebook"
 	print "\033[1;97m{\033[1;92m02\033[1;97m} Ambil Token Download Token App"
 	print "\033[1;97m{\033[1;92m03\033[1;97m} Ambil Token Dari Link"
-	print "\033[1;97m{\033[1;92m04\033[1;97m} Login Via Cookie Facebook"
 	print "\033[1;97m{\033[1;91m00\033[1;97m} Keluar"
 	print 50* "\033[1;94m─"
 	pilih_masuk()
